@@ -36,15 +36,15 @@ Additional Local Storage: thbwd (CodePen)
 
 ## Links
 
-* Typeface: [Neue Haas Grotesk]('https://fonts.adobe.com/designers/christian-schwartz')
-* Local Storage Assist: [thbwd]('https://codepen.io/thbwd/pen/qBKGwx')
-* Dynamic Rainbow Background: [Manual Pinto on CodePen]('https://codepen.io/P1N2O/pen/pyBNzX')
+* Typeface: [Neue Haas Grotesk](https://fonts.adobe.com/designers/christian-schwartz)
+* Local Storage Assist: [thbwd](https://codepen.io/thbwd/pen/qBKGwx)
+* Dynamic Rainbow Background: [Manual Pinto on CodePen](https://codepen.io/P1N2O/pen/pyBNzX)
 
 ## Screenshots
 
-View the deployed site here: [Junkfood.]('https://wulfsounds.github.io/g3p-junkfood/')
+View the deployed site here: [Junkfood.](https://wulfsounds.github.io/g3p-junkfood/)
 
-View the Repo Here: [GitHub]('https://github.com/wulfsounds/g3p-junkfood')
+View the Repo Here: [GitHub](https://github.com/wulfsounds/g3p-junkfood)
 
 <img src="./assets/images/splash-screenshot.png" alt="splash-screenshot" />
 
