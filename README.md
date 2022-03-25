@@ -52,5 +52,9 @@ View the Repo Here: [GitHub](https://github.com/wulfsounds/g3p-junkfood)
 
 <img src="./assets/images/hover-menu.gif" alt="munchies-page" />
 
+## License
+
+This code is licensed under the MIT License.
+
 ------------------------------------------------------
 2022 SMU Coding Bootcamp, Group 3, Project 1
