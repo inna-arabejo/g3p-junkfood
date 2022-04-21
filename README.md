@@ -56,5 +56,10 @@ View the Repo Here: [GitHub](https://github.com/wulfsounds/g3p-junkfood)
 
 This code is licensed under the MIT License.
 
+## Questions
+
+For inquiries about the repo, you can find me through GitHub at [inna-arabejo](https://github.com/inna-arabejo). 
+For any additional questions, you can reach me through my email at [iarabejo3@gmail.com](mailto:iarabejo3@gmail.com).
+
 ------------------------------------------------------
 2022 SMU Coding Bootcamp, Group 3, Project 1
