@@ -1,5 +1,7 @@
 # Junkfood.
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## **Objectives**
 To create a dynamic front-end web application that incorporates an immersive UI experience. Utilizing 2 or more third-party APIs, the web application will provide and display still and animated content suitable for ages 13 and up. So whether you're a student making memes about their instructors, finding new ways to violate Facebook's terms and conditions, or Gary, theres something for everyone. This is Junkfood.
 
